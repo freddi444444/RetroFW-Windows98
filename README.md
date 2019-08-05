@@ -16,3 +16,9 @@ Installation
 - Copy folder "Windows98" to skins folder (e.g. RetroFW/apps/gmenu2x/skins/)
 - Restart device and go to skin setting and change to "Windows98"
 - Done! There are some alternate wallpapers rather than just the green window
+
+Credits
+------------
+Icons Used from Fontixel Theme by Fontes - https://www.deviantart.com/fontesmakua/art/Fontixel-Skin-Pack-for-RetroFW-firmware-794503991
+Main Graphics and some Icons by Me
+Inspired by Windows 98
