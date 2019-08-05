@@ -21,6 +21,6 @@ Credits
 ------------
 Icons Used from Fontixel Theme by Fontes - https://www.deviantart.com/fontesmakua/art/Fontixel-Skin-Pack-for-RetroFW-firmware-794503991
 <br>
-Main Graphics and some Icons by Me
+Main Graphics and Icons by Me
 <br>
 Inspired by Windows 98
